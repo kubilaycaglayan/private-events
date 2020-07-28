@@ -1,6 +1,6 @@
 # ASSOCIATIONS: PRIVATE EVENTS
 
-In this Ruby on Rails project we are creating a website similar to Eventbrite. Users can create events and invite people to these events. Users that have accepted the invitation will also be able to invite other users.
+In this Ruby on Rails project we are creating a website similar to Eventbrite. Users can create events and invite people to these events. A user can only see an event that they have been invited to. The creator of an event is automatically invited to that event.
 
 # [LIVE LINK](https://private-events-lotr.herokuapp.com/)
 
