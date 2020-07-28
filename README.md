@@ -1,4 +1,4 @@
-# ASSOCIATIONS: PRIVATE EVENTS
+# PRIVATE EVENTS
 
 In this Ruby on Rails project we are creating a website similar to Eventbrite. Users can create events and invite people to these events. A user can only see an event that they have been invited to. The creator of an event is automatically invited to that event.
 
